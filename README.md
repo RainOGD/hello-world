@@ -4,4 +4,4 @@ Hi guys! My name is Islam Stanaliev. I'm a PHP developer. In the future, I want 
 
 Pull Request
 
-Linux git
+Linux git OGD
